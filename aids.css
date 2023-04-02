@@ -1,0 +1,66 @@
+*
+{
+    overflow-x: hidden;
+}
+.nav-item
+{
+    padding: 2px;
+    margin-right: 22px;
+    font-weight: bold;
+    position: static;
+}
+
+.car
+{
+   margin-left: 10%;
+   margin-right: 10%;
+   z-index: -1;
+   position: relative;
+   margin-top: 0;
+   
+    
+}
+.navbar
+{
+    position: fixed;
+    width: 100%;
+}
+.col-sm-12
+{
+    text-align: center;
+    width: 100%;
+}
+article
+{
+    text-align:center;
+    justify-content:space-around;
+    padding: 2%;
+    width: 100%;
+}
+.p
+{
+    text-align: justify;
+}
+.dropdown
+{
+    height:auto ;
+}
+h3
+{
+    overflow-y: hidden;
+}
+h1
+{
+    text-align: center;
+    overflow-y: hidden;
+}
+
+li:hover
+{
+    background-color: red;
+}
+
+img 
+{
+    width: 40%;
+}
