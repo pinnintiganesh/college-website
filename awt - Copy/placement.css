@@ -1,0 +1,41 @@
+.nav-item
+{
+    
+    padding: 2px;
+    margin-right: 22px;
+    font-weight: bold;
+    position:sticky;
+}
+h1
+{
+    text-align: left;
+    color: blue;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+.img-pl
+{
+   width: 94%;
+   margin-top: 5%;
+   margin-bottom: 2%;
+   margin-left:2%;
+   margin-right: 2%;
+   overflow-x: hidden;
+}
+.navbar
+{
+    position: fixed;
+    width: 100%;
+}
+table
+{
+    width: 100%;
+}
+#placementfaculity
+{
+    margin-top:auto;
+}
+#Training
+{
+    margin-bottom: 2%;
+}
